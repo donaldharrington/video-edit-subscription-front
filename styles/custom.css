@@ -1,0 +1,131 @@
+#navbarSupportedContent>ul {
+    margin-left: auto !important;
+    margin-right: 0px !important;
+}
+
+.c_home_banner_tlt_dv>h1:first-child {
+    padding-bottom: 0px;
+    font-family: 'DM Sans', sans-serif;
+    color: #110e19;
+    font-size: 90px;
+    line-height: 1em;
+    letter-spacing: -6px;
+    text-transform: none;
+    text-shadow: 0 1px 1px #3982ff, 1px 0 1px #de39ff;
+}
+
+.c_home_banner_tlt_dv>h1:last-child {
+    background-image: linear-gradient(180deg, #3a0c43, #3982ff);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 120px;
+    line-height: 1.2em;
+    letter-spacing: -6px;
+    text-transform: none;
+    text-shadow: none;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.c_home_process_div i, 
+.c_home_process_div h1,
+.c_home_process_div h4, 
+.c_home_process_div h5 {
+    color: white !important;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+
+.c_home_process_div .what-we-do-item {
+    min-height: 300px;
+}
+
+.c_home_portal_item_dv>h3 {
+    color: white;
+    padding-top: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.c_home_portal_item_dv>p {
+    font-style: italic;
+    color: gray !important;
+    margin-top: -10px;
+}
+
+.c_home_review_dv {
+    text-align: center;
+}
+
+.c_home_review_dv div {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.c_home_review_authors {
+    color: white !important;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+}
+
+.c_home_review_dv>div:last-child img {
+    display: inline-block;
+    width: 30px;
+}
+
+.c_home_review_dv .c_client_img {
+    width: 100px !important;
+    border-radius: 50%;
+    margin: 10px auto;
+}
+
+.c_home_review_dv .flaticon-quotation {
+    color: white !important;
+    font-size: 36px;
+}
+
+.c_pricing_item_dv {
+    border: 1px solid #272b2b;
+    border-radius: 5px;
+    min-height: 450px;
+}
+
+.c_pricing_item_dv h2 {
+    text-align: center;
+    border-bottom: 1px solid #272b2b;
+    padding: 10px;
+    background-color: #272b2b;
+    color: white;
+}
+
+.c_pricing_item_dv h3 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom: 1px solid rgba(100, 100, 100, 0.5);
+    padding-bottom: 10px;
+    margin-bottom: 5px !important;
+}
+    
+.c_pricing_item_dv h5 {
+    padding-left: 15px;
+    padding-top: 5px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.c_pricing_item_dv>div {
+    padding: 5px 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 1px solid rgba(100, 100, 100, 0.3);
+}
+
+.c_pricing_item_dv>div>img {
+    width: 35px;
+    margin-left: -5px;
+}
+
+.c_pricing_item_dv>div:last-child {
+    text-align: center;
+    padding: 25px;
+}
